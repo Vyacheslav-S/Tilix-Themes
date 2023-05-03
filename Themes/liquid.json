@@ -1,0 +1,25 @@
+{
+    "name": "liquid",
+    "comment": "liquid Scheme",
+    "use-theme-colors": false,
+    "foreground-color": "#ffffff",
+    "background-color": "#002B36",
+    "palette": [
+      "#252525",
+      "#FF5252",
+      "#C3D82C",
+      "#FFC135",
+      "#42A5F5",
+      "#D81B60",
+      "#00ACC1",
+      "#F5F5F5",
+      "#708284",
+      "#FF5252",
+      "#C3D82C",
+      "#FFC135",
+      "#42A5F5",
+      "#D81B60",
+      "#00ACC1",
+      "#F5F5F5"
+    ]
+}
